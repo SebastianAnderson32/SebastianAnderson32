@@ -3,7 +3,7 @@
 
 ### Contact Information: 
 - **Email: sebbe1116@gmail.com**
-- **Discord: SebastianAnderson#7422**
+- **Discord: sebastiananderson
 
 <h3 align="left">Connect with me on Linkedin:</h3>
 <p align="left">
