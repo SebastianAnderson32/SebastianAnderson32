@@ -1,5 +1,9 @@
 <h1 align="center">Welcome to my GitHub!</h1>
+<a name="welcome"></a>
+
 <h3 align="center">Software Engineer based in Gothenburg, Sweden with a passion for software development, technology and finding creative solutions to challenging problems</h3>
+<a name = "software"></a>
+
 
 ### Contact Information: 
 - **Email: sebbe1116@gmail.com**
