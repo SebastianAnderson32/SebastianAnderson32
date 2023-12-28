@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Tensorflow.js and fine-tuning of DCGANs<br>🎯 Goals: Achieve employment at Hudson River Trading</p>
+<p align="left">📚 I'm currently studying my final year at the University of Gothenburg; and working full-time as a software engineer,<br</p>
 
 ###
 
