@@ -10,8 +10,6 @@
 
 ###
 
-<p align="left">📚 I'm currently studying my final year at the University of Gothenburg; and working full-time as a software engineer,<br</p>
-
 ###
 
 <h2 align="left">I code with the following technologies:</h2>
